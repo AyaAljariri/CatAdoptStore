@@ -1,0 +1,8 @@
+* {background-color:#FFEBCD ;}
+#num1 , #num2 , #num3  { background-color: Brown ; width: 100px ; height: 100px }
+.class1 { float: left}
+#num4 , #num5 , #num6  { background-color: Brown ; width: 100px ; height: 100px }
+.class2 {float: right}
+.Photo { width: 50% ; height: 200px ; ; text-align: center ; margin-left: 25% ; margin-right: 25% }
+img+div {display:inline-block}
+
